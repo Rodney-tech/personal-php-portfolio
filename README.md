@@ -13,7 +13,7 @@ My online presence showcasing my resume, story, and a way to connect.
 ## Setup
 1. Clone repo
 2. Place in XAMPP `htdocs`
-3. Access via `mrkubayi.co.za` (virtual host)
+3. Access via `mrkubayi.ac.za` (virtual host)
 
 ## Notes
 Thanks for checking it out! 😊
